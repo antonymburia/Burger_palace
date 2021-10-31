@@ -97,3 +97,15 @@ body {
 }
 .orangetext {
     color: #ffc13a;
+}
+.double {
+    background-color: #f7fdf6;
+    background-image: url(images/doubledecker1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-top: 100px;
+    padding-bottom: 200px;
+    text-align: left center;
+    padding-left: 50px;
+    
+}
