@@ -26,6 +26,14 @@ body {
     min-height: 704px;
     max-width: 1100%;
 }
+
+.btncol {
+    background-color: #fa9638;
+    border: none;
+    border-radius: 20px;
+    margin-top: 50px;
+    padding: 10px;
+}
 .custom-padding {
     padding-top: 50px;
     padding-bottom: 50px;
@@ -49,3 +57,43 @@ body {
     background-color: #f7fdf6;
     
 }
+
+.txtcolor {
+    color: #925e67;
+}
+.textposition {
+    padding-top: 300px;
+}
+.cartfooter {
+    margin-left: 220px;
+    margin-bottom: 50px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border: none;
+}
+.firstsection {
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+}
+.logost {
+    font-weight: 700px;
+    color: black;
+}
+.imgsz {
+    width: 340px;
+    height: auto;
+}
+.bgcol {
+    background-color: #f6b637;
+}
+.btnstyle {
+    color: white;
+    border: none;
+    padding: 10px;
+}
+.orangetext {
+    color: #ffc13a;
