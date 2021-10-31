@@ -22,9 +22,6 @@ body {
 
 .homebg {
     background: url("images/home.png") no-repeat center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
     background-size: cover;
     min-height: 704px;
     max-width: 1100%;
