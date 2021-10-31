@@ -113,3 +113,10 @@ body {
     margin-left: 20px;
     text-align: left;
 }
+.btncol {
+    background-color: #fa9638;
+    border: none;
+    border-radius: 20px;
+    margin-top: 50px;
+    padding: 10px;
+}
