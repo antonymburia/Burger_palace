@@ -26,3 +26,26 @@ body {
     min-height: 704px;
     max-width: 1100%;
 }
+.custom-padding {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.icon-size {
+    width: 100px;
+    height: auto;
+}
+
+.card-content {
+    background-color: #f7fdf6;
+} 
+.cardstyling {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 50px; 
+  }
+.cardborder {
+    border-style: solid;
+    border-radius: 20px;
+    border-color: #7d404a;
+    background-color: #f7fdf6;
+    
+}
